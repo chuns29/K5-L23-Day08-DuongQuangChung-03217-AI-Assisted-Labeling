@@ -5,7 +5,7 @@
 - Lớp: L2A
 - Tài khoản GitHub: chuns29
 - Repo bài nộp: https://github.com/chuns29/K5-L23-Day08-DuongQuangChung-03217-AI-Assisted-Labeling
-- Commit chốt bài: Chưa tạo; cập nhật khi commit và push bài hoàn chỉnh.
+- Commit chứa đầy đủ sản phẩm bài nộp: 2c6d0a3484c1e34dfefbf2d743e577cc0c34dbc6. Commit kế tiếp chỉ cập nhật dòng tham chiếu này.
 - Máy: Windows, Python 3.13.9, torch CPU, không có GPU được PyTorch nhận diện.
 - CVAT Docker: v2.74.1
 
