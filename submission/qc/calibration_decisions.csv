@@ -1,1 +1,5 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_003,loi_may,Một xe ba bánh có hai box #12 và #13 trong bản release,Giữ một box ôm toàn xe và bỏ box trùng khi rework,Mục 2 bảng ca khó: kiểm tra một box cho mỗi cá thể; đây là áp dụng nguyên tắc v1.0,v1.1
+CAL-02,img_031,cau_hoi_mo,Xe đạp chở giỏ quả: ranh giới giữa cấu kiện và hàng rời,Giữ giỏ và khung gắn cố định; lấy phần xe nhìn thấy làm mốc chiều dài khi xét phần hàng nhô; ca không xác định được cấu kiện thì can_review,Mục 1: làm rõ cách xét hàng nhô theo chiều dài xe; chưa chốt mask hàng rời,v1.1
+CAL-03,img_023,bay_lot,Đáp án bẫy là box lớn phủ nhiều tuk-tuk; nhãn đã tách thành ba xe nên không đạt IoU chấm bẫy,Giữ mỗi xe một box three_wheeler; ghi chênh lệch hợp đồng chấm thay vì gộp nhiều xe,Mục 2: phân biệt cá thể trước khi so box gốc; không gộp xe để khớp đáp án,v1.1
+CAL-04,img_014,loi_may,Box xe máy #134 cắt gương và tay lái nhìn thấy,Rà từng bộ phận gắn liền xe kể cả gương; chỉnh biên trong vòng rework,Mục 2: checklist bốn cạnh và gương; làm rõ bộ phận gắn liền trong v1.0 mục 4.1.1,v1.1

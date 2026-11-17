@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,13,thua,Codex,Box #13 bao phần thùng và bánh của cùng xe ba bánh đã có box #12. Một xe đang có hai box cùng lớp.
+img_006.jpg,,bo_sot,Codex,"Xe máy đỗ phía sau xe tay ga bạc bên trái; phần đuôi và biển số quanh (490,460) nhìn thấy rõ nhưng không có box riêng; #79 chỉ bao xe phía trước."
+img_014.jpg,134,sai_vi_tri_kich_thuoc,Codex,Box xe máy do người áo sọc lái bắt đầu y=372; gương và tay lái nhìn thấy ở khoảng y=350 nằm ngoài box.
+img_031.jpg,,khong,Codex,"Đã rà ba đối tượng. Biên dưới person #386 có vùng người bị giỏ và bánh che; chưa đủ chắc để ghi lỗi chỉ từ overlay, cần học viên đối chiếu thêm khi rework. Không tính ca nghi ngờ này vào số lỗi xác nhận."
+img_035.jpg,,khong,Codex,Đã kiểm ảnh gốc và overlay 37 đối tượng; chưa nhận ra lỗi rõ để ghi thêm trong lượt kiểm này. Đây là kiểm bằng Codex sau khi đã sửa theo đáp án.
